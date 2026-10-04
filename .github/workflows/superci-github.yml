@@ -1,5 +1,5 @@
-# labstack/echo's .github/workflows/echo.yml: test (os: ubuntu-latest, go: 1.27), for the Superaction scoreboard.
-name: Superaction (GitHub)
+# labstack/echo's .github/workflows/echo.yml: test (os: ubuntu-latest, go: 1.27), for the SuperCI scoreboard.
+name: SuperCI (GitHub)
 
 on:
   workflow_dispatch: {}
